@@ -16,6 +16,12 @@
 ![7](https://user-images.githubusercontent.com/97785411/212541279-77c4abc9-fa04-478d-8e8b-4a8425a2e9a7.jpg)
 
 ## ❤️ 4. Data Processing
+- ในส่วนของ Data Processing เรานำ data ในแต่ละ source เก็บข้อมูลในรูปแบบ Table โดยมีข้อมูลคือ date time, author name และ comment แล้วนำ comment ที่ได้มาในแต่ละช่วงเวลา count ตามเวลา comment จริงและแสดงในรูปแบบของกราฟ ดังนี้
+
+
+<img width="475" alt="Screen Shot 2566-01-15 at 19 57 53" src="https://user-images.githubusercontent.com/97785411/212542029-e4d0b59d-0cdd-4069-8e31-aaa6456563c7.png">
+
+<img width="683" alt="Screen Shot 2566-01-15 at 19 58 44" src="https://user-images.githubusercontent.com/97785411/212542049-353c6d69-5d34-4294-bcdb-315b5ecb198b.png">
 
 
 ## ❤️ 5. Distribute data tool

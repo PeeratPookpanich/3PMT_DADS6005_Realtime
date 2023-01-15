@@ -42,10 +42,23 @@
 -In the same period (1.5-hour), there are more comments in 2022 than in 2021, a 56% increase.
   - Year 2021 has a total of 6,049 comments.
   - Year 2022, there are 9,430 comments.
-- In 2022, online match viewers started commenting on match VDOs in the first 10 minutes of match kick-off, while in 2021, comments began after 40 minutes.
+  
+-In 2022, online match viewers started commenting on match VDOs in the first 10 minutes of match kick-off, while in 2021, comments began after 40 minutes.
+
 -The rate of average comments increaseis 40% from 2021 to 2022 .
  - In 2021 it's around 101 comments/min.
  - But in 2022 it's around 157 comments/min.
+
+### Member
+-Metpiya Lertakkakorn 6410422005
+
+-Khodchapan Vitheethum 6410422015
+
+-Peerat Pookpanich 6410422017
+
+-Anyamanee Pornpanvattana 6410422031
+
+-Patcharapruek Watanangura 6410412007
 
 
 

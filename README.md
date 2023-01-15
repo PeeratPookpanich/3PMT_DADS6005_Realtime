@@ -7,7 +7,9 @@
 ![image](https://user-images.githubusercontent.com/39288060/212537495-eb4e20a2-632e-4220-b76d-cdb88d6f0316.png)
 </br> Data source: https://workpointtoday.com/game-industry/
 
-##❤️ 2. Diagram 
+## ❤️ 2. Diagram 
+![image](https://user-images.githubusercontent.com/39288060/212538126-30cc640c-272b-4ad9-9ee8-0c056516c1bb.png)
+
 
 ## Googole Cloud Pub/Sub process
 

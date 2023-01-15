@@ -12,11 +12,11 @@
 ![image](https://user-images.githubusercontent.com/39288060/212538126-30cc640c-272b-4ad9-9ee8-0c056516c1bb.png)
 
 ## ❤️ 3. Data Source
-
+- We retrieve comments from YouTube live broadcasts of DOTA2 competitive games in 2021 and 2022.
 ![7](https://user-images.githubusercontent.com/97785411/212541279-77c4abc9-fa04-478d-8e8b-4a8425a2e9a7.jpg)
 
 ## ❤️ 4. Data Processing
-- ในส่วนของ Data Processing เรานำ data ในแต่ละ source เก็บข้อมูลในรูปแบบ Table โดยมีข้อมูลคือ date time, author name และ comment แล้วนำ comment ที่ได้มาในแต่ละช่วงเวลา count ตามเวลา comment จริงและแสดงในรูปแบบของกราฟ ดังนี้
+- In the Data Processing part, we take the data in each source to collect the data in the form of a Table. The data as Date AndTime, Author's Name and Comments, then bring the comments obtained in each period, count according to the actual comment time and display it in the form of a graph. as follows
 
 
 <img width="475" alt="Screen Shot 2566-01-15 at 19 57 53" src="https://user-images.githubusercontent.com/97785411/212542029-e4d0b59d-0cdd-4069-8e31-aaa6456563c7.png">
@@ -38,13 +38,14 @@
 ![17](https://user-images.githubusercontent.com/97785411/212542201-b354eed4-f789-45f0-92bc-cd831136dafc.jpg)
 
 ## ❤️ 8.🔦 Insight and Conclusion
--ในช่วงเวลา 1.5 ชั่วโมง เท่ากัน ในปี 2022 มีคอมเม้นมากกว่าในปี 2021 โดยเพิ่มขึ้นกว่า 56% 
- - ปี 2021 มีคอมเม้นทั้งหมด 6,049
- - ปี 2022 มีคอมเม้น 9,430
-- ในปี 2022 ผู้รับชมการแข่งขันออนไลน์เริ่มมาคอมเม้นใน VDO การแข่งขันตั้งแต่ 10 นาทีแรกของการเริ่มการแข่งขัน ในขณะที่ปี 2021 เริ่มมีการคอมเม้นต์เมื่อเวลาผ่านกว่า 40 นาที
--Average comment อัตราการเพิ่มขึ้นของปี 2021 ไปปี 2022 อยู่ที่ 40%
-ในปี 2021 อยู่ที่ประมาณ 101 คอมเมนต์/นาที 
-แต่ในปี 2022 อยู่ที่ประมาณ 157 คอมเมนต์/นาที
+
+-In the same period (1.5-hour), there are more comments in 2022 than in 2021, a 56% increase.
+  - Year 2021 has a total of 6,049 comments.
+  - Year 2022, there are 9,430 comments.
+- In 2022, online match viewers started commenting on match VDOs in the first 10 minutes of match kick-off, while in 2021, comments began after 40 minutes.
+-The rate of average comments increaseis 40% from 2021 to 2022 .
+ - In 2021 it's around 101 comments/min.
+ - But in 2022 it's around 157 comments/min.
 
 
 

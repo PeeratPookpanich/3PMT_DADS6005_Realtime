@@ -4,14 +4,13 @@
 
 ## 🎯1. Introdution
 - Our interest in streaming YouTube in DOTA2 official tournament to compare between 2021 and 2022 as we research in details below.
-- 
 ![image](https://user-images.githubusercontent.com/39288060/212537495-eb4e20a2-632e-4220-b76d-cdb88d6f0316.png)
 </br> Data source: https://workpointtoday.com/game-industry/
 
 ## ❤️ 2. Diagram 
 ![image](https://user-images.githubusercontent.com/39288060/212538126-30cc640c-272b-4ad9-9ee8-0c056516c1bb.png)
 
-# ❤️ 3. Data Source
+## ❤️ 3. Data Source
 
 ![7](https://user-images.githubusercontent.com/97785411/212541279-77c4abc9-fa04-478d-8e8b-4a8425a2e9a7.jpg)
 
